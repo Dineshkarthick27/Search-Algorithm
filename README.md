@@ -110,6 +110,10 @@ else:
 
 ```
 ## Sample Input and Output
+![3a1](https://user-images.githubusercontent.com/120552008/215006432-c945c5b1-dbb6-45ac-a7ae-aafe6f851ade.jpg)
+![3a2](https://user-images.githubusercontent.com/120552008/215006453-8982be5b-a9ea-4350-a903-a0016bc9f46d.jpg)
+![3a3](https://user-images.githubusercontent.com/120552008/215006462-3a8d76c8-5701-4bf1-9abd-c24da1d7ca01.jpg)
+
 
 
 
